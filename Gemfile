@@ -6,3 +6,4 @@ gem 'sidekiq'
 gem 'slack-ruby-client'
 gem 'httparty'
 gem 'tzinfo'
+gem "rack", ">= 2.0.6"
